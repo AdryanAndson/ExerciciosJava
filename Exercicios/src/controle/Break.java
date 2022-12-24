@@ -12,6 +12,6 @@ public class Break {
 			}
 			System.out.println(i);
 		}
-		System.out.println("Fim!");
+		System.out.println("Fizao!");
 	}
 }
